@@ -1,0 +1,6 @@
+1. eat food
+2. read
+2. take pills
+4. brush teeth
+4. test
+5. go to sleep
